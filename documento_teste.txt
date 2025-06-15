@@ -1,0 +1,30 @@
+Este é um documento de teste para o Sistema LLM Local.
+
+O Sistema LLM Local é uma aplicação inovadora que permite aos usuários conversar com seus documentos usando inteligência artificial completamente local e gratuita.
+
+Características principais:
+- Funciona 100% offline após a instalação
+- Suporta documentos PDF, DOCX e TXT
+- Usa o modelo Llama 3.1 da Meta
+- Interface gráfica amigável
+- Persistência de conhecimento entre sessões
+
+Como usar:
+1. Execute o arquivo main.py
+2. Adicione seus documentos clicando em "Adicionar Documentos"
+3. Aguarde o processamento (aparecerá "Obrigado! Já aprendi tudo!")
+4. Faça perguntas sobre o conteúdo dos documentos
+5. A IA responderá baseada no conhecimento adquirido
+
+Exemplos de perguntas que você pode fazer:
+- "Qual é o tema principal deste documento?"
+- "Resuma as características do sistema"
+- "Como posso usar esta aplicação?"
+- "Quais são os formatos de arquivo suportados?"
+
+O sistema mantém todo o conhecimento salvo localmente, então você não precisa reprocessar os documentos toda vez que abrir a aplicação.
+
+Para resetar o conhecimento, use a opção "Recomeçar do Zero" - mas cuidado, esta operação não pode ser desfeita!
+
+Aproveite seu assistente de IA pessoal e local!
+

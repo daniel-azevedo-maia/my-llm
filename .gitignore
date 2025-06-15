@@ -1,0 +1,26 @@
+# Arquivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Banco de dados vetorial e conhecimento local
+knowledge_base/
+chroma_db/
+*.db
+*.sqlite
+
+# Arquivos temporários e de logs
+*.log
+*.tmp
+
+# Ambiente virtual
+venv/
+.env/
+
+# Configurações do Ollama
+.ollama/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
